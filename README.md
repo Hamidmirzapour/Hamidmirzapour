@@ -1,18 +1,28 @@
 `Hamid Mirzapour`
 
-### Hi there 👋
+## Hey there 👋
+---
 I'm Hamid, a 26 years old backend developer from Mashhad, Iran.
 
-🧭 Backend Developer at [Sazman](https://sazman.org).
+- 🧭 Backend Developer at [Sazman](https://sazman.org).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+## Skills 
+---
+- 🔭 Programming
+- 🌱 Data Structures and Algorithm Design
+- 👯 Machine Learning
+- 🤔 Deep Learning
+- 💬 Reinforcement Learning
+- 📫 Algorithmic Trading
+- 😄 Web Backend Development
+
+Contact
+---
+[Hamid Mirzapour]() on Linkedin
+[hamid._.mirzapour](https://instagram.com/hamid._.mirzapour) on instagram
+[Hamid](https://t.me/hmd_mrzpr] on telegram
+[Hamid](https://wa.me/+989222390445
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamidmirzapour&langs_count=10&layout=compact)](https://github.com/Hamidmirzapour/github-readme-stats))
