@@ -15,7 +15,7 @@ I'm Hamid, a 26 years old backend developer from Mashhad, Iran.
 - ⚡ Fun fact: ...
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Hamidmirzapour&layout=compact/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamidmirzapour&layout=compact)](https://github.com/Hamidmirzapour/github-readme-stats))
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamidmirzapoura&show_icons=true&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamidmirzapoura&show_icons=true&theme=slateorange)](https://github.com/Hamidmirzapour/github-readme-stats)
