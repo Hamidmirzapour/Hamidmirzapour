@@ -5,7 +5,6 @@
 I'm Hamid, a 26 years old backend developer from Mashhad, Iran.
 
 - 🧭 Backend Developer at [Sazman](https://sazman.org).
-- 😄 Founder of [Ropano](https://ropano.ir) Software Group.
 
 ## Skills 
 - 🔭 Programming
