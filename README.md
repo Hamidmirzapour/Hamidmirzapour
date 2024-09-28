@@ -2,9 +2,9 @@
 
 ## Hey there 👋
 
-I'm Hamid, a 26 years old backend developer from Mashhad, Iran.
+I'm Hamid, a 28 years old backend developer from Mashhad, Iran.
 
-- 🧭 Backend Developer at [Sazman](https://sazman.org).
+- 🧭 Backend Developer at [EMMC](https://bi.emmc.ir).
 
 ## Skills 
 - 🔭 Programming
